@@ -2,7 +2,10 @@ import React from 'react'
 
 const PromptCard = () => {
   return (
-    <div>PromptCard</div>
+    <div>
+    <H1>User Name</H1>
+    <p>prompt:-{}</p>
+    </div>
   )
 }
 
